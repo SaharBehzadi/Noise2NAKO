@@ -1,0 +1,3 @@
+Method,MSE_train,MAE_train,R_2_train,MSE_val,MAE_val,R_2_val,MSE_pred,MAE_pred,R_2_pred
+KNN,0.0,0.0,1.0,0.001,0.015,0.97,0.017,0.096,0.484
+SVM,0.003,0.043,0.915,0.003,0.041,0.919,0.012,0.085,0.633
